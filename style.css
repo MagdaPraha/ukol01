@@ -1,0 +1,76 @@
+body {
+    color: #282425;
+    background-color: beige;
+    }
+
+header { 
+    background-color: bisque;
+    text-align: center;
+    padding: 20px 0;
+    }
+
+footer { 
+    background-color: bisque;
+    text-align: center;
+    color: brown;
+    padding: 15px 0;
+}
+
+      
+h1,
+h2 {
+    color: brown;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    margin-top: 36px;
+}
+
+h4 {
+    font-style: italic;
+}    
+
+.fotka {
+    width: 300px;
+    border: 2px solid white;
+}
+
+.photo {
+    padding-bottom: 0%;
+    padding-top: 15px;
+}
+
+section {
+    padding: 0px 30%;
+    text-align: center;
+}
+
+.education {
+    padding: 0 0 0 15%;
+    text-align: left;
+}
+  
+.treck {
+    padding: 0 0 0 30%;
+    text-align: left;
+}
+
+.turistika {
+    text-align: left;
+    padding: 0 10px 0 10px;
+}
+
+.fotecka {
+        width: 100px;
+        border: 2px solid white;
+        float: left;
+        margin-right: 20px;
+    }
